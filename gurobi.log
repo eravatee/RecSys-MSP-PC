@@ -1,0 +1,244 @@
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 02:21:36 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1.lp
+Reading time = 0.26 seconds
+: 1003 rows, 252507 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 1003 rows, 252507 columns and 0 nonzeros
+Model fingerprint: 0x7c636ec3
+Variable types: 0 continuous, 252507 integer (252507 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 5e+02]
+  RHS range        [2e+00, 2e+00]
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 02:51:32 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1.lp
+Reading time = 0.16 seconds
+: 501 rows, 252004 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 501 rows, 252004 columns and 0 nonzeros
+Model fingerprint: 0xf7a1db88
+Variable types: 0 continuous, 252004 integer (252004 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds (0.01 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 02:57:22 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1_1.lp
+Reading time = 0.16 seconds
+: 501 rows, 252506 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 501 rows, 252506 columns and 0 nonzeros
+Model fingerprint: 0xe8e4d59e
+Variable types: 0 continuous, 252506 integer (252506 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds (0.01 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 03:02:14 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1_1.lp
+Reading time = 0.16 seconds
+: 501 rows, 252506 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 501 rows, 252506 columns and 0 nonzeros
+Model fingerprint: 0xe6a10a7c
+Variable types: 0 continuous, 252506 integer (252506 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds (0.01 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 03:29:48 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1_1.lp
+Reading time = 1.02 seconds
+: 2680 rows, 252506 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 2680 rows, 252506 columns and 0 nonzeros
+Model fingerprint: 0x6b0a8be3
+Variable types: 0 continuous, 252506 integer (252506 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds (0.01 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 03:31:40 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+
+Error 10003: Unable to open file 'LUBP1_1.lp' for input
+
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 03:31:48 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1.rlp
+Reading time = 2.31 seconds
+: 3181 rows, 3024550 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 3181 rows, 3024550 columns and 0 nonzeros
+Model fingerprint: 0x7d18515a
+Variable types: 0 continuous, 3024550 integer (3024550 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.06s
+
+Explored 0 nodes (0 simplex iterations) in 0.17 seconds (0.16 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.5.0 (mac64[arm], gurobi_cl) logging started Tue Apr 26 03:32:44 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-06-24
+Using license file /Users/eravatee/gurobi.lic
+
+Gurobi Optimizer version 9.5.0 build v9.5.0rc5 (mac64[arm])
+Copyright (c) 2021, Gurobi Optimization, LLC
+
+Read LP format model from file LUBP1.rlp
+Reading time = 0.16 seconds
+: 501 rows, 252004 columns, 0 nonzeros
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 501 rows, 252004 columns and 0 nonzeros
+Model fingerprint: 0x1200ad6a
+Variable types: 0 continuous, 252004 integer (252004 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds (0.01 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
