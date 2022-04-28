@@ -97,3 +97,9 @@ m2.update
 # # run optimization engine
 # m1.optimize()
 # m2.optimize()
+
+# c1 = m1.addMConstr(x @ x_1 == k, 'c1')
+# c4 = m2.addConstr(x_matrix @ x_2 == k, 'c4')
+# c6 = m2.addConstr((x_matrix @ x_2 <= K @ y_matrix), 'c6')
+# c7 = m2.addConstr(x_matrix @ x_2 <= 1 - K + K @ y_matrix, 'c7')
+# c8 = m2.addConstr(y_matrix @ y_2 >= w , 'c8')
